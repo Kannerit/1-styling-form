@@ -1,0 +1,60 @@
+body {
+    background-color: #213b50;
+}
+
+.field {
+    background: #2b4a64;
+    color: #ffffff;
+    width: 50%;
+    margin-bottom: 7px;
+    padding: 5px;
+    margin: 2px;
+    border: 0;
+}
+
+input:hover,
+select:hover,
+textarea:hover {
+    background-color: #4e708c;
+    border: 1px solid #fff;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    background-color: #4e708c;
+    border: 1px solid #fff;
+}
+
+label {
+    color: #ffffff;
+    margin: 2px;
+}
+
+select {
+    background: #2b4a64;
+    color: #ffffff;
+    width: 51%;
+    padding: 5px;
+    margin: 2px;
+    border: 0;
+}
+
+
+#gender {
+    color: #ffffff;;
+}
+
+input[type=submit] {
+    width: auto;
+    background-color: #1ac056;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;;
+    border: 0;
+}
+
+input[type=submit]:hover {
+    background-color: #46e881;
+}
